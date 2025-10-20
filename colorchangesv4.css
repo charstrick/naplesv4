@@ -3,3 +3,9 @@
     color: #000 !important;
     font-weight: 700 !important;
 }
+div.sessions-wrapper > div > div > div {
+display: none;
+}
+span.mat-button-wrapper {
+padding: 0.5pc;
+}
